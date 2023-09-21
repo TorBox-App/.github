@@ -1,5 +1,7 @@
 
-![Logo](https://torbox.app/apple-touch-icon.png)
+<div align="center">
+    <img src="/assets/logo.png" height="200">
+</div>
 
 
 ## 🚀 TorBox Open Source
