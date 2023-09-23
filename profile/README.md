@@ -23,7 +23,8 @@ You can use TorBox right now for free at https://torbox.app.
 
 ## 🧙🏽‍♂️ Authors
 
-- [@Wamy](https://www.github.com/wamy-dev)
+- [@Wamy-Dev](https://www.github.com/wamy-dev) *Lead, Frontend, Backend*
+- [@FeroTheFox](https://github.com/ferothefox) *Frontend*
 
 
 ## 🛠️ Development
