@@ -31,5 +31,7 @@ You can use TorBox right now for free at https://torbox.app.
 
 You can follow TorBox development at [FeatureBase](https://torbox.featurebase.app/). This includes changelogs for the hosted version of TorBox as well as feedback and a roadmap.
 
+Open source documentation can be found [here](https://docs.torbox.app). If you are looking for documentation and information for the hosted version of TorBox, you can find it [here](https://support.torbox.app).
+
 If you want to help with development, you are more than welcome to clone any of our current repositories and make a PR.
 
