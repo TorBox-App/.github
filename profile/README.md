@@ -35,3 +35,9 @@ Open source documentation can be found [here](https://docs.torbox.app). If you a
 
 If you want to help with development, you are more than welcome to clone any of our current repositories and make a PR.
 
+## 📜 License
+
+Please be aware, that most items in the TorBox Github Organization are licensed under the *Elastic License 2.0 (ELv2)*. This allows individuals to do whatever they want with the code, including self-hosting (which is literally the point) but prevents you from hosting this for others as a managed service (basically trying to rip off or copy the officially hosted version of [TorBox](https://torbox.app)). This is mainly for the safety of TorBox so nobody creates a competitor service based off of our own open source projects. ELv2 allows TorBox to stay safe, while giving the community power at the same time. Anything not marked with the ELv2 license is MIT. You can view the license [here](https://raw.githubusercontent.com/TorBox-App/.github/main/LICENSE).
+
+
+
