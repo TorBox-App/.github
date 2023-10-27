@@ -9,10 +9,10 @@ While TorBox is primarily a freeium cloud product, TorBox is also (going to be) 
 
 **We plan to offer the following:**
 - An open source UI
-- An open source API and Relay (you will have to host supabase yourself either selfhosted or use their free tier)
-- A single docker image for deploying on a single machine
-- A multi-machine docker image allowing you to deploy TorBox as a cluster, such as what the hosted version of TorBox uses.
-- Some support on all of these things
+- An open source backend/api
+- Docker images for all items including compose images
+- Instructions and Support
+- Useful tools and code that TorBox uses
 
 Making FOSS is time consuming and expensive. Please be patient with TorBox. *There is no estimate on when these items will come (if ever).*
 
@@ -20,20 +20,20 @@ Making FOSS is time consuming and expensive. Please be patient with TorBox. *The
 
 You can use TorBox right now for free at https://torbox.app.
 
-
 ## 🧙🏽‍♂️ Authors
 
 - [@Wamy-Dev](https://www.github.com/wamy-dev) *Lead, Frontend, Backend*
-- [@FeroTheFox](https://github.com/ferothefox) *Frontend*
-
+- [@FeroTheFox](https://github.com/ferothefox) *Design*
 
 ## 🛠️ Development
 
 You can follow TorBox development at [FeatureBase](https://torbox.featurebase.app/). This includes changelogs for the hosted version of TorBox as well as feedback and a roadmap.
 
-Open source documentation can be found [here](https://docs.torbox.app). If you are looking for documentation and information for the hosted version of TorBox, you can find it [here](https://support.torbox.app).
+Open source documentation can be found [here](https://docs.torbox.app). If you are looking for information or support on the hosted version of TorBox, you can find it [here](https://support.torbox.app).
 
 If you want to help with development, you are more than welcome to clone any of our current repositories and make a PR.
+
+TorBox follows *Conventional Commits* format which allows our CI and repos to be organized. Any Pull Request commits not following the format will be rejected. If you want to learn more about Conventional Commits, please go [here](https://conventionalcommits.org)
 
 ## 📜 License
 
