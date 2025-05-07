@@ -3,16 +3,7 @@
 </div>
 
 ## 🚀 TorBox Open Source
-While TorBox is primarily a freeium cloud product, TorBox is also (going to be) a free self-hosted torrent client, that you can install on any machine(s) and have almost the same features as the hosted TorBox app.  
-
-**We plan to offer the following:**
-- An open source UI
-- An open source backend/api
-- Docker images for all items including compose images
-- Instructions and Support
-- Useful tools and code that TorBox uses
-
-Making FOSS is time consuming and expensive. Please be patient with TorBox. *There is no estimate on when these items will come (if ever).*
+While TorBox is primarily a freeium cloud product. We provide open source projects that our users can use with our hosted application. This also serves as an organization used for forking projects that TorBox is co-developing.
 
 ## 👀 Demo
 
@@ -20,9 +11,9 @@ You can use TorBox right now for free at https://torbox.app.
 
 ## 🛠️ Development
 
-You can follow TorBox development at [FeatureBase](https://torbox.featurebase.app/). This includes changelogs for the hosted version of TorBox as well as feedback and a roadmap.
+You can follow TorBox development at [FeatureBase](https://feedback.torbox.app). This includes changelogs for the hosted version of TorBox as well as feedback and a roadmap.
 
-Open source documentation can be found [here - NOT READY YET -](https://docs.torbox.app). If you are looking for information or support on the hosted version of TorBox, you can find it [here](https://support.torbox.app).
+If you are looking for information or support on the hosted version of TorBox, you can find it [here](https://support.torbox.app).
 
 If you want to help with development, you are more than welcome to clone any of our current repositories and make a PR.
 
